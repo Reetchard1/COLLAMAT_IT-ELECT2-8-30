@@ -2,7 +2,7 @@
 # Schedule 8:30 - 10 :30  -- 10:30- 1:30
 # Members
 # Richard D Collamat Jr.
-# Frietz Kylye Sumilhig
+# Frietz Kyle Sumilhig
 # Raell Geramie Balagbis
 # Aijem Almacid
 # Task

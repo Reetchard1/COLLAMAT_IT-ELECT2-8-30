@@ -4,5 +4,9 @@
     <string name="subject" />
     <string name="message" />
     <string name="send" />
+    <string name="Message" />
+    <string name="Send" />
+    <string name="To" />
+    <string name="Subject" />
 
 </resources>
